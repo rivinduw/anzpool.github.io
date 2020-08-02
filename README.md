@@ -1,3 +1,3 @@
-# anzpool.github.io
+# Welcome to the ANZ Pool
 
-Hello World!
+A Cardano stakepool based in Australia and New Zealand. Managed from New Zealand.
