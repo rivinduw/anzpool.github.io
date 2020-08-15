@@ -14,10 +14,7 @@
             "country": "New Zealand"
         },
         "about": {
-            "me": "Pool Operator: I am an Engineer/Data Scientist based in New Zealand.
-                    I have a bachelor of engineering degree from the University of Auckland and currently working on my PhD.
-                    Outside that, I've also started and built software for multiple startups and been involved in the Entreprenurship space.
-                    Been passionate about cardano since buying my first ADA in 2017.",
+            "me": "Pool Operator: I am an Engineer/Data Scientist based in New Zealand. I have a bachelor of engineering degree from the University of Auckland and currently working on my PhD. Outside that, I've also started and built software for multiple startups and been involved in the Entreprenurship space. Been passionate about cardano since buying my first ADA in 2017.",
             "server": "Multiple cloud services and bare-metal backup. 4 relays around the world, one main block producing node in Sydney, Australia and a backup block producer/relay in Auckland, New Zealand. See anzpool.com"
         }
     },
